@@ -1,15 +1,15 @@
-# generator-html-template
+# generator-html-template-angularjs
 
-Yeoman generator for HTML Template.
+Yeoman generator for HTML Template AngularJS.
 
 ## Install
 
 ```
-npm install --g generator-html-template
+npm install --g generator-html-template-angularjs
 ```
 
 ## Usage
 
 ```
-yo html-template
+yo html-template-angularjs
 ```
